@@ -1,0 +1,46 @@
+h2 {
+text-align: center;
+color: white;
+}
+
+h4 {
+text-align: center;
+color: white;
+}
+
+.texto {
+background-color: gray;
+margin-top: 7px;
+}
+
+footer {
+background-color: black;
+height: 30em;
+
+}
+
+table {
+color: white;
+font-family: arial;
+}
+
+.final {
+margin-top: -20em;
+padding-left: 30em;
+}
+
+.contato {
+margin-top: -25em;
+padding-left: 55em;
+list-style-type: none;
+}
+
+.rodape {
+margin-top: 24em; 
+padding-left: 33em;
+color: yellow;
+
+}
+
+
+
